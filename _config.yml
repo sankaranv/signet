@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Sankaran Vaidyanathan
-tagline:          'Personal Webpage'
-description:      'sankaranv8@gmail.com'
-url:              https://sankaranv.github.io
+title:            SIGNET
+tagline:          'Special Interest Group on Networks'
+description:      'IIT Madras'
+url:              https://sankaranv.github.io/signet
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -22,11 +22,11 @@ paginate:         1
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-email:              sankaranv8@gmail.com
-github:
-  repo:             https://github.com/sankaranv
-twitter:            https://twitter.com/sankaranv8
-linkedin:           https://www.linkedin.com/in/sankaranv8/
+#email:              sankaranv8@gmail.com
+#github:
+#  repo:             https://github.com/sankaranv
+#twitter:            https://twitter.com/sankaranv8
+#linkedin:           https://www.linkedin.com/in/sankaranv8/
 
 plugins:
   - jekyll-feed
