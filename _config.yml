@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            SIGNET
-tagline:          'Special Interest Group on Networks'
-description:      'IIT Madras'
+tagline:          'IIT Madras'
+description:      'Special Interest Group on Networks, IIT Madras'
 url:              https://sankaranv.github.io/signet
 #baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
