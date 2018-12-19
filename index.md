@@ -1,7 +1,7 @@
 ---
 layout: index
-title: Main Page
-sidebar_link: false
+title: Home
+sidebar_link: true
 ---
 
 We are the Networks group. Here is a summary of what we do.
